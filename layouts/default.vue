@@ -11,13 +11,13 @@ import NavigationBar from '~/components/NavigationBar.vue'
 export default {
   components: {
     NavigationBar
-  },
+  }
 }
 </script>
 
 <style>
 html {
-  @apply bg-gray-200
+  @apply bg-gray-200;
 }
 
 *,
