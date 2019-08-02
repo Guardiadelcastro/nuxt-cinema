@@ -8,15 +8,15 @@ module.exports = {
     parser: 'babel-eslint'
   },
   extends: [
-    'prettier',
-    'prettier/vue',
     '@nuxtjs',
-    'plugin:nuxt/recommended'
+    'plugin:nuxt/recommended',
+    'plugin:vue/recommended'
   ],
-  plugins: [
-    'vue',
-  ],
+  plugins: [],
   // add your custom rules here
   rules: {
+    'vue/max-attributes-per-line': 'off',
+    "vue/html-indent": "off",
+    'no-tabs': 'off'
   }
 }
