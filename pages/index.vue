@@ -1,13 +1,17 @@
 <template>
   <div>
-    <img class="object-cover" src="https://image.tmdb.org/t/p/w1280/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" alt="" />
+    <IndexHero />
   </div>
 </template>
 
 <script>
+import IndexHero from '~/components/IndexHero'
 export default {
-  components: {}
+  components: {
+    IndexHero
+  }
 }
 </script>
 
-<style></style>
+<style>
+</style>
