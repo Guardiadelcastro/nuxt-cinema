@@ -1,7 +1,7 @@
 <template>
   <div class="relative w-screen">
     <div class="z-0 absolute bg-red-400">
-      <img class="object-cover" src="https://image.tmdb.org/t/p/w1280/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" alt="" />
+      <img class="object-cover" :src="img" alt="" />
     </div>
     <div class="absolute text-gray-500 z-10">
       <h2>Spiderman Homecoming</h2>
@@ -14,7 +14,11 @@
 <script>
 export default {
   name: 'IndexHero',
-  data() {}
+  data() {
+    return {
+      img: 'https://image.tmdb.org/t/p/w1280/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg'
+    }
+  }
 }
 </script>
 
