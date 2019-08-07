@@ -1,0 +1,134 @@
+[
+  {
+    "theater": 1,
+    "name": "Spider-Man: Into the Spider-Verse",
+    "overview": "Miles Morales está haciendo malabarismos con su vida entre ser un estudiante de secundaria y ser un hombre araña. Cuando Wilson 'Kingpin' Fisk usa un súper colisionador, otros del otro lado del Spider-Verse son transportados a esta dimensión.",
+    "genres": [
+      {
+        "id": 1,
+        "name": "Acción"
+      },
+      {
+        "id": 2,
+        "name": "Aventuras"
+      },
+      {
+        "id": 3,
+        "name": "Animación"
+      },
+      {
+        "id": 4,
+        "name": "Ciencia Ficción"
+      },
+      {
+        "id": 5,
+        "name": "Comedia"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w1280/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg"
+  },
+  {
+    "theater": 2,
+    "name": "La llegada",
+    "overview": "Cuando misteriosas naves espaciales aterrizan en todo el mundo, un equipo de élite (Jeremy Renner y Forest Whitaker) liderado por la lingüista Louise Banks (Amy Adams) intentan descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de una guerra, Louise y su equipo luchan contra el tiempo llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+    "genres": [
+      {
+        "id": 1,
+        "name": "Drama"
+      },
+      {
+        "id": 2,
+        "name": "Ciencia Ficción"
+      },
+      {
+        "id": 3,
+        "name": "Misterio"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqzXArpFIZQxEPfJT6ohWVFKK1t.jpg"
+  },
+  {
+    "theater": 3,
+    "name": "Acantilado Rojo",
+    "overview": "En China, hacia el final de la Dinastía Han (208 d.C.) Cao Cao, el temible Primer Ministro (y gobernante de facto) convence al veleidoso Emperador Han de que declare la guerra a los reinos de Xu, al oeste y al este, y al reino de Wu, al sur. Su objetivo, según dice, es la unificar China por el bien del país, pero, en realidad, sus motivos son bastante más egoístas. Tras convencer al Emperador, Cao Cao lleva a su ejército de casi un millón de soldados a la guerra. Su primer objetivo es el Reino de Xu, de reciente creación, gobernado por el benevolente líder Liu Bei. Al llegar al Reino de Xu, las fuerzas de Cao Cao, superiores numéricamente, derrotan fácilmente al ejército de Liu Bei. Los ciudadanos de Xu huyen bajo la protección de las tropas de Liu Bei y de sus dos generales de mayor rango (y hermanos de sangre): Guan Yu y Zhang Fei, que se quedan atrás a riesgo de sus propias vidas para salvar a los campesinos que intentan escapar",
+    "genres": [
+      {
+        "id": 1,
+        "name": "Acción"
+      },
+      {
+        "id": 2,
+        "name": "Aventuras"
+      },
+      {
+        "id": 3,
+        "name": "Drama"
+      },
+      {
+        "id": 4,
+        "name": "Bélica"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w440_and_h660_face/bnRhRIjA5Gk5OwJDl7as3oBv4I8.jpg"
+  },
+  {
+    "theater": 4,
+    "name": "Nausicaä del valle del viento ",
+    "overview": "En un futuro lejano, en un mundo post-apocalíptico, la Tierra está cubierta por unos bosques llenos de hongos venenosos e insectos gigantescos. Los humanos han quedado reducidos a unos pocos pueblos aislados que intentan sobrevivir a la plaga mientras luchan entre ellos. En medio de todo esto la princesa Nausicaä, del Valle del Viento, quien ama a los insectos, buscará comprender el origen del problema y conseguir la paz entre los hombres, y sobre todo entre éstos y el bosque.",
+    "genres": [
+      {
+        "id": 1,
+        "name": "Fantasía"
+      },
+      {
+        "id": 2,
+        "name": "Aventuras"
+      },
+      {
+        "id": 3,
+        "name": "Animación"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHqEPjr3UP5HRglXsoEfTHOzeI6.jpg"
+  },
+  {
+    "theater": 5,
+    "name": "Harry Potter y el prisionero de Azkaban",
+    "overview": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+    "genres": [
+      {
+        "id": 1,
+        "name": "Fantasía"
+      },
+      {
+        "id": 2,
+        "name": "Aventuras"
+      },
+      {
+        "id": 3,
+        "name": "Familia"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w440_and_h660_face/3Ah9UVvY1BxDQXBvHeP4e4meu1C.jpg"
+  },
+  {
+    "theater": 6,
+    "name": "Wasabi: El trato sucio de la mafia",
+    "overview": "Hubert Fiorentini es un inspector de policía con unos métodos un poco ortodoxos, pero con un tierno corazón, al que obligatoriamente le darán unas vacaciones forzadas, ya que acaba de pelearse con el hijo del jefe de policía. Dos días después recibe la llamada de un abogado desde Tokyo, informándole que Miko, la mujer de su vida, que había desaparecido hacía 20 años, había muerto. Y lo que le había dejado en el testamento, no era ni dinero, ni presentes, ni nada material; le había dejado a su propia hija, Yumi, una extravagante adolescente, adicta a ir de compras, y con doscientos millones de dólares en su cuenta.",
+    "genres": [
+      {
+        "id": 1,
+        "name": "Acción"
+      },
+      {
+        "id": 2,
+        "name": "Drama"
+      },
+      {
+        "id": 3,
+        "name": "Comedia"
+      }
+    ],
+    "posterURL": "https://image.tmdb.org/t/p/w1280/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg"
+  }
+]
